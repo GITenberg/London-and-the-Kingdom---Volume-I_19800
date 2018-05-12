@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8883'
     url: http://www.gutenberg.org/2009/agents/8883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19800#London-and-the-Kingdom---Volume-I
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-11-13'
 gutenberg_type: Text
